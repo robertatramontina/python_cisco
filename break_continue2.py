@@ -10,7 +10,7 @@ while True:
         largest_number = number
 
 if counter != 0:
-    print("TO maior número é", largest_number)
+    print("O maior número é", largest_number)
 else:
     print("Você não inseriu nenhum número.")
 
